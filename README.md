@@ -1,2 +1,1 @@
-HCI - projekt
-projekt iz kolegija Korisnička sučelja
+HCI - projekt iz kolegija Korisnička sučelja
